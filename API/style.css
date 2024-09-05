@@ -1,0 +1,51 @@
+.titulo {
+  align-items: center;
+  justify-content: space-evenly;
+  padding-left: 10%;
+  font-size: 30px;
+}
+
+.tituloh3 {
+    
+    padding-right: 100px;
+  }
+  
+  
+
+.perguntaInicial {
+  padding-left: 1%;
+  padding-right: 60%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.botaoPesquisa {
+  background-color: rgb(255, 248, 248);
+  display: flex;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+p,
+h1,
+h2,
+h3,
+a {
+  color: aliceblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.corBackground {
+  background-color: #0d0e17;
+}
+.cantoEsquerdo {
+  justify-content: space-between;
+}
+
+.introducaotxt{
+    align-items: center;
+    justify-content: center;
+    padding-right: 430px;
+    font-size: 14px;
+}
